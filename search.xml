@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[iOS 集成 MailCore2 后，网易、QQ 和 iCloud 邮箱的登录问题]]></title>
+    <url>%2F2018%2F04%2F19%2FiOS-%E9%9B%86%E6%88%90-MailCore2-%E5%90%8E%EF%BC%8C%E7%BD%91%E6%98%93%E3%80%81QQ-%E5%92%8C-iCloud-%E9%82%AE%E7%AE%B1%E7%9A%84%E7%99%BB%E5%BD%95%E9%97%AE%E9%A2%98%2F</url>
+    <content type="text"><![CDATA[接入 MailCore2 框架后，选用 IMAP/SMTP 协议。 登录网易、QQ 和 iCloud 时会出现无法登录的情况，记录备忘。 网易邮箱（126、163） 通过用户名和密码登录，如：example@163.com/pass123 现象： 一次被阻止的收信行为(早期通过网页注册的用户，新版通过网易邮箱大师客户端注册的用户无此提示) 解决：http://config.mail.163.com/settings/imap/index.jsp?uid=用户名将上述链接用浏览器打开，其中的“用户名”修改成自己的邮箱，如：http://config.mail.163.com/settings/imap/index.jsp?uid=example@163.com根据网页提示操作即可 QQ 邮箱 通过用户名和授权码进行登录 现象： 通过用户名和密码登录无效 解决：1.开启 IMAP/SMTP 服务2.通过授权码登录 iCloud 邮箱 通过用户名和专用密码登录 现象：通过用户名和密码登录无效 解决：1.通过 Apple ID 生成 App 专用密码登录 参考文档 步骤1:登录 Apple ID 帐户页面步骤2:生成 App 专用密码]]></content>
+      <categories>
+        <category>iOS</category>
+      </categories>
+      <tags>
+        <tag>MailCore</tag>
+        <tag>邮箱</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F04%2F17%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
