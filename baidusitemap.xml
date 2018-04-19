@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://devoslim.com/2018/04/19/iOS-%E9%9B%86%E6%88%90-MailCore2-%E5%90%8E%EF%BC%8C%E7%BD%91%E6%98%93%E3%80%81QQ-%E5%92%8C-iCloud-%E9%82%AE%E7%AE%B1%E7%9A%84%E7%99%BB%E5%BD%95%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2018-04-19T01:26:34.264Z</lastmod>
+    <data>
+        <display>
+        <title>iOS 集成 MailCore2 后，网易、QQ 和 iCloud 邮箱的登录问题</title>
+        <pubTime>2018-04-19T01:15:45.000Z</pubTime>
+        
+        <tag>MailCore</tag>
+         
+        <tag>邮箱</tag>
+         
+         
+           
+             
+              <breadCrumb title="iOS" url="http://devoslim.com/categories/iOS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://devoslim.com/2018/04/17/hello-world/</loc>
+    <lastmod>2018-04-17T11:39:46.078Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-04-17T11:39:46.078Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
